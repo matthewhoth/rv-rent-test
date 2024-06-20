@@ -45,14 +45,14 @@ export const createNewOrganizationAction = withCsrfCheck(
       `Creating organization...`,
     );
 
-    const { data: organizationId, error } = await client
-    .rpc('create_new_organization', {
-      org_name: organization,
-      user_id: userId,
-      create_user: false,
-    })
-    .throwOnError()
-    .single();
+    const { data: organizationUid, error } = await client
+      .rpc('create_new_organization', {
+        org_name: organization,
+        user_id: userId,
+        create_user: false,
+      })
+      .throwOnError()
+      .single();
 
     if (error) {
       return handleError(error, `Error creating organization`);
