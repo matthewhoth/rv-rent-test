@@ -11,7 +11,7 @@ import configuration from '~/configuration';
 
 export const metadata: Metadata = {
   title: `Blog - ${configuration.site.siteName}`,
-  description: `Tutorials, Guides and Updates from our team`,
+  description: `Guides and Updates from our team to help your business`,
 };
 
 async function BlogPage() {
@@ -21,7 +21,7 @@ async function BlogPage() {
         <div className={'flex flex-col items-center justify-center'}>
           <Hero>Blog</Hero>
 
-          <SubHeading>Tutorials, Guides and Updates from our team</SubHeading>
+          <SubHeading>Guides and Updates from our team to help your business</SubHeading>
         </div>
 
         <GridList>

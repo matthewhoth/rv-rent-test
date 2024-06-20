@@ -1,4 +1,4 @@
-import Hero from '~/core/ui/Hero';
+/* import Hero from '~/core/ui/Hero';
 import Container from '~/core/ui/Container';
 import SubHeading from '~/core/ui/SubHeading';
 import FaqItem from '~/app/(site)/components/FaqItem';
@@ -84,3 +84,4 @@ const FAQPage = () => {
 };
 
 export default FAQPage;
+ */

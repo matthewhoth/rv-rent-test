@@ -17,8 +17,8 @@ const links = {
     path: '/auth/sign-in',
   },
   Holder: {
-    label: 'Placeholder',
-    path: '/holder',
+    label: 'Home',
+    path: '/',
   },
 };
 

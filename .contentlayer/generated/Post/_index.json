@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Lorem Ipsum",
+    "date": "2021-12-24T00:00:00.000Z",
+    "live": false,
+    "image": "/assets/images/posts/lorem-ipsum.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "body": {
+      "raw": "\n## Fecerat avis invenio mentis\n\nLorem markdownum signis vidi quisquis saepe inani inter animam laceras nequiquam\ncastos cumque dum poste pede, **soliti et** eras. Cornua utendum. Ne dignus\nopacae? Moles percussis, redimitus equi quercus haurit perque *aras*; humo!\nDigessit Famemque membris vestrum [sua adveniens](http://erit.net/luctus.php)\ndeserta, et me cum cum dicuntur et ignes.\n\n    var xmp_duplex = boolean + alu_unmount_tween - newline;\n    var matrix_http_plain = facebook;\n    rom = risc_flops + market + 2 + reimage_c_mca;\n\n## Parilesque duae meritis\n\nSuum spes medio faciunt miserarum artisque. Honor amplectique crescunt saepius\ncavis esse saepe laetabile modo. Fontis relinquit titulum est victa mundi!\n\n## Orbem dare\n\nMore cingo concipit cumque armenta. Secuta quare profundi damni erigimur effugit\nfacta ipsa, videt videt. Conantem et **campos animos usquam** ut munus erat\naudito, e!\n\n> Talia ponit corpora Philemon. Volant pone dicta, fugerent hanc; trahunt plus\n> **cinxit agendo**, Sedit, animum, molli spargere. Perterrita et bella Tiresia\n> tanta auctor, colatur **nigro** externa. Stamina nunc bis *longeque* cornua.\n\n## Cantat sequentes et illi opertos Cycno\n\nPer inque Pallade cuspide errabat. Est dolor excitus ultorem avertere, numero et\nMinos pater flamine, ictu tune Phylius.\n\nDitem est qui Scythicis erubuit suae, qui nunc tacito aequare auras. Suas erat\ncubitoque esse, volventem quae, fera tinxi villo ita. Addit hic sine at orbe ut\nsanesque intravit pudore nullisque Canens, ait aut. Parabat Pittheia Pan cibus\net perque inquit grave suae coniunx cura matris undaeque et stagni et.\n",
+      "code": "var Component=(()=>{var l=Object.create;var s=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,q=Object.prototype.hasOwnProperty;var g=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),f=(i,e)=>{for(var a in e)s(i,a,{get:e[a],enumerable:!0})},u=(i,e,a,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!q.call(i,t)&&t!==a&&s(i,t,{get:()=>e[t],enumerable:!(r=d(e,t))||r.enumerable});return i};var b=(i,e,a)=>(a=i!=null?l(h(i)):{},u(e||!i||!i.__esModule?s(a,\"default\",{value:i,enumerable:!0}):a,i)),v=i=>u(s({},\"__esModule\",{value:!0}),i);var c=g((j,o)=>{o.exports=_jsx_runtime});var N={};f(N,{default:()=>k,frontmatter:()=>x});var n=b(c()),x={title:\"Lorem Ipsum\",date:new Date(1640304e6),live:!1,description:\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\",image:\"/assets/images/posts/lorem-ipsum.webp\"};function m(i){let e=Object.assign({h2:\"h2\",a:\"a\",span:\"span\",p:\"p\",strong:\"strong\",em:\"em\",blockquote:\"blockquote\"},i.components);return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h2,{id:\"fecerat-avis-invenio-mentis\",children:[(0,n.jsx)(e.a,{className:\"anchor\",href:\"#fecerat-avis-invenio-mentis\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Fecerat avis invenio mentis\"]}),`\n`,(0,n.jsxs)(e.p,{children:[`Lorem markdownum signis vidi quisquis saepe inani inter animam laceras nequiquam\ncastos cumque dum poste pede, `,(0,n.jsx)(e.strong,{children:\"soliti et\"}),` eras. Cornua utendum. Ne dignus\nopacae? Moles percussis, redimitus equi quercus haurit perque `,(0,n.jsx)(e.em,{children:\"aras\"}),`; humo!\nDigessit Famemque membris vestrum `,(0,n.jsx)(e.a,{href:\"http://erit.net/luctus.php\",children:\"sua adveniens\"}),`\ndeserta, et me cum cum dicuntur et ignes.`]}),`\n`,(0,n.jsx)(e.p,{children:`var xmp_duplex = boolean + alu_unmount_tween - newline;\nvar matrix_http_plain = facebook;\nrom = risc_flops + market + 2 + reimage_c_mca;`}),`\n`,(0,n.jsxs)(e.h2,{id:\"parilesque-duae-meritis\",children:[(0,n.jsx)(e.a,{className:\"anchor\",href:\"#parilesque-duae-meritis\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Parilesque duae meritis\"]}),`\n`,(0,n.jsx)(e.p,{children:`Suum spes medio faciunt miserarum artisque. Honor amplectique crescunt saepius\ncavis esse saepe laetabile modo. Fontis relinquit titulum est victa mundi!`}),`\n`,(0,n.jsxs)(e.h2,{id:\"orbem-dare\",children:[(0,n.jsx)(e.a,{className:\"anchor\",href:\"#orbem-dare\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Orbem dare\"]}),`\n`,(0,n.jsxs)(e.p,{children:[`More cingo concipit cumque armenta. Secuta quare profundi damni erigimur effugit\nfacta ipsa, videt videt. Conantem et `,(0,n.jsx)(e.strong,{children:\"campos animos usquam\"}),` ut munus erat\naudito, e!`]}),`\n`,(0,n.jsxs)(e.blockquote,{children:[`\n`,(0,n.jsxs)(e.p,{children:[`Talia ponit corpora Philemon. Volant pone dicta, fugerent hanc; trahunt plus\n`,(0,n.jsx)(e.strong,{children:\"cinxit agendo\"}),`, Sedit, animum, molli spargere. Perterrita et bella Tiresia\ntanta auctor, colatur `,(0,n.jsx)(e.strong,{children:\"nigro\"}),\" externa. Stamina nunc bis \",(0,n.jsx)(e.em,{children:\"longeque\"}),\" cornua.\"]}),`\n`]}),`\n`,(0,n.jsxs)(e.h2,{id:\"cantat-sequentes-et-illi-opertos-cycno\",children:[(0,n.jsx)(e.a,{className:\"anchor\",href:\"#cantat-sequentes-et-illi-opertos-cycno\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Cantat sequentes et illi opertos Cycno\"]}),`\n`,(0,n.jsx)(e.p,{children:`Per inque Pallade cuspide errabat. Est dolor excitus ultorem avertere, numero et\nMinos pater flamine, ictu tune Phylius.`}),`\n`,(0,n.jsx)(e.p,{children:`Ditem est qui Scythicis erubuit suae, qui nunc tacito aequare auras. Suas erat\ncubitoque esse, volventem quae, fera tinxi villo ita. Addit hic sine at orbe ut\nsanesque intravit pudore nullisque Canens, ait aut. Parabat Pittheia Pan cibus\net perque inquit grave suae coniunx cura matris undaeque et stagni et.`})]})}function _(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,Object.assign({},i,{children:(0,n.jsx)(m,i)})):m(i)}var k=_;return v(N);})();\n;return Component;"
+    },
+    "_id": "posts/post-01.mdx",
+    "_raw": {
+      "sourceFilePath": "posts/post-01.mdx",
+      "sourceFileName": "post-01.mdx",
+      "sourceFileDir": "posts",
+      "contentType": "mdx",
+      "flattenedPath": "posts/post-01"
+    },
+    "type": "Post",
+    "url": "/blog/post-01",
+    "readingTime": 2,
+    "slug": "post-01",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Lorem Ipsum",
+      "datePublished": "2021-12-24T00:00:00.000Z",
+      "dateModified": "2021-12-24T00:00:00.000Z",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "/assets/images/posts/lorem-ipsum.webp",
+      "url": "/blog/posts/post-01",
+      "author": {
+        "@type": "Organization",
+        "name": "RVRENTPRO"
+      }
+    }
+  }
+]

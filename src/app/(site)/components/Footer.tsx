@@ -26,7 +26,7 @@ function Footer() {
 
               <div>
                 <p className={'text-sm text-gray-500 dark:text-gray-400'}>
-                  Add a short tagline about your product
+                  Add a short tagline about for RV Rent Pro
                 </p>
               </div>
 
@@ -52,10 +52,10 @@ function Footer() {
 
                 <FooterSectionList>
                   <FooterLink>
-                    <Link href={'#'}>Who we are</Link>
+                    <Link href={'#'}>Why RVRP</Link>
                   </FooterLink>
                   <FooterLink>
-                    <Link href={'/blog'}>Blog</Link>
+                    <Link href={'/FAQ'}>FAQ</Link>
                   </FooterLink>
                   <FooterLink>
                     <Link href={'/contact'}>Contact</Link>

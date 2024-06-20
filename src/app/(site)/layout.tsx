@@ -18,7 +18,7 @@ function SiteLayout(props: React.PropsWithChildren) {
       />
 
       {props.children}
-
+      <Footer />
     </I18nProvider>
   );
 }

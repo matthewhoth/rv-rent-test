@@ -43,12 +43,12 @@ const Modal: React.FC<
       >
         <DialogContent>
           <div className="h-full min-h-screen px-4 text-center">
-            <span
+       {/*      <span
               className="inline-block h-screen align-middle"
               aria-hidden="true"
             >
               &#8203;
-            </span>
+            </span> */}
 
             <div className="inline-block max-h-[90%] w-full max-w-xl transform overflow-auto rounded-xl bg-white p-6 text-left align-middle shadow-xl transition-all dark:bg-black-400">
               <div className={'flex flex-col space-y-4'}>
